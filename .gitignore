@@ -1,0 +1,12 @@
+# Node
+.env
+
+# Python
+__pycache__/
+env/
+venv/
+
+#photos
+profile.jpg
+bitmoji.jpg
+
